@@ -10,7 +10,7 @@ import subprocess
 from pathlib import Path
 from xml.sax.saxutils import escape
 
-BASE_URL = "https://www.bredna.com.ar"
+BASE_URL = "https://www.kerkyra-joyas.com.ar"
 ROOT = Path(__file__).resolve().parent.parent
 
 # Pages that exist as .html files but shouldn't be listed in the sitemap

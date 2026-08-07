@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.bredna.com.ar/sitemap.xml
+Sitemap: https://www.kerkyra-joyas.com.ar/sitemap.xml
